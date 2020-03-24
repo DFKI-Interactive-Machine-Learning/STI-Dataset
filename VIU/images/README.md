@@ -1,0 +1,1 @@
+Images have to be downloaded separately, see README in the root directory
