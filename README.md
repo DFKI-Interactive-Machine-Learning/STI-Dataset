@@ -95,19 +95,19 @@ The JSON tree for an image of the VIU dataset has the following structure:
 If you use this part of the dataset, please cite the following publication:
 ```
 @inproceedings{Barz20,
-author = {Barz, Michael and Stauden, Sven and Sonntag, Daniel},
-title = {Visual Search Target Inference in Natural Interaction Settings with Machine Learning},
-year = {2020},
-isbn = {9781450371339},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3379155.3391314},
-doi = {10.1145/3379155.3391314},
-booktitle = {Symposium on Eye Tracking Research and Applications},
-articleno = {1},
-numpages = {8},
-keywords = {Search Target Inference, Machine Learning, Mobile Eyetracking, Visual Attention},
-location = {Stuttgart, Germany},
-series = {ETRA ’20}
+  author = {Barz, Michael and Stauden, Sven and Sonntag, Daniel},
+  title = {Visual Search Target Inference in Natural Interaction Settings with Machine Learning},
+  year = {2020},
+  isbn = {9781450371339},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3379155.3391314},
+  doi = {10.1145/3379155.3391314},
+  booktitle = {Symposium on Eye Tracking Research and Applications},
+  articleno = {1},
+  numpages = {8},
+  keywords = {Search Target Inference, Machine Learning, Mobile Eyetracking, Visual Attention},
+  location = {Stuttgart, Germany},
+  series = {ETRA ’20}
 }
 ```
