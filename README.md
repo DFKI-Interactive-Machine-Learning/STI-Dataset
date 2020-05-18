@@ -7,7 +7,7 @@ which investigates top-down visual saliency in visual search.
 We extended both datasets for being used with our approaches for inferring search targets of a visual search.
 Each dataset is located in a separate folder. Per dataset we provide a `JSON`
 file with all annotations and a folder that shall contain the corresponding raw images.
-We do not provide the raw images on Github. **You can download a package with all images [here](https://dfkide-my.sharepoint.com/:u:/g/personal/miba01_dfki_de/EaQ9e1EMYfFAuDYSMfxBb_UBIKOFTdPp9tyuZoqgZVKVug?e=KMfSxD)**. 
+We do not provide the raw images on Github. **You can download a package with all images [here](http://iml.dfki.de/wp-content/uploads/2020/05/STI-Dataset.zip)**. 
 
 The final folder structure should look as follows:
 ```
